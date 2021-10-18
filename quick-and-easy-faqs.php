@@ -1,14 +1,14 @@
 <?php
 /**
- * Plugin Name:       Quick and Easy FAQs
+ * Plugin Name:       Karouani Plugin FAQ
  * Plugin URI:        https://github.com/inspirythemes/quick-and-easy-faqs
  * Description:       A quick and easy way to add FAQs to your site.
  * Version:           1.3.4
- * Author:            Inspiry Themes
+ * Author:            Yassine Karouani
  * Author URI:        https://inspirythemes.com/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- * Text Domain:       quick-and-easy-faqs
+ * Text Domain:       faq-karouani-eramus
  * Domain Path:       /languages
  */
 
